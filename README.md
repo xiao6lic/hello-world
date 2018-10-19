@@ -1,6 +1,7 @@
+
 # hello-world
 the first repository(first C)
-
+```c
 #include<stdio.h>
 main()
 {
@@ -10,3 +11,4 @@ main()
   printf("Hello World!\n");
   }
 }
+```
